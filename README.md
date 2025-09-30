@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Problem-solving, Coding Practices, and Development**
 
-- 📫 How to reach me **malakaniranjan080@gmail.com**
+- 📫 Connect With Me **malakaniranjan080@gmail.com**
 <h3 align="left">👋 Get in Touch</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/niranjan080" target="_blank">
