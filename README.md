@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Niranjan Malaka</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blu-niranjan&label=Profile%20views&color=0e75b6&style=flat" alt="blu-niranjan" /> </p>
 
 - 🔭 I’m currently working on **CloudShieldX**
 
@@ -14,7 +13,6 @@
 <a href="https://linkedin.com/in/niranjan080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan080" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 ### 🛠️ My Tech Stack
 
@@ -22,7 +20,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
@@ -33,7 +30,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge" alt="JSP"/>
+  <img src="https://img.shields.io/badge/Servlets-B02B2C?style=for-the-badge" alt="Servlets"/>
 </p>
 
 #### Development Tools
@@ -46,6 +46,12 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Google Colab"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-niranjan&show_icons=true&locale=en&layout=compact" alt="blu-niranjan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blu-niranjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Niranjan's GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blu-niranjan&" alt="blu-niranjan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blu-niranjan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  &nbsp; 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu-niranjan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
